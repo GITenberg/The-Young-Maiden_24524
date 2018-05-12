@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26553
     wikipedia: http://famousamericans.net/artemasbowersmuzzey/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24524#The-Young-Maiden
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2008-02-05'
 gutenberg_type: Text
